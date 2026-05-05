@@ -63,6 +63,8 @@ This project covers:
 
 ---
 
+# Tableau Link: https://public.tableau.com/views/Retail_Sales_17779357863740/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 # Project Structure
 
 ```text
